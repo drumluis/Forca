@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Forca</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallows">The gallows</string>
+    <string name="head">The head</string>
+    <string name="body">The body</string>
+    <string name="arm">An arm</string>
+    <string name="leg">A leg</string>
+</resources>

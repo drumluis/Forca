@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>PRETO</item>
+        <item>BRANCO</item>
+        <item>AZUL</item>
+        <item>AMARELO</item>
+        <item>VERDE</item>
+        <item>ROXO</item>
+        <item>CINZA</item>
+        <item>LARANJA</item>
+    </string-array>
+</resources>
