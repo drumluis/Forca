@@ -108,7 +108,7 @@ public class GameActivity extends Activity {
             charViews[c].setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT,
                     LayoutParams.WRAP_CONTENT));
             charViews[c].setGravity(Gravity.CENTER);
-            charViews[c].setTextColor(Color.BLUE);
+            charViews[c].setTextColor(Color.WHITE);
             charViews[c].setBackgroundResource(R.drawable.letter_bg);
             //add to layout
             wordLayout.addView(charViews[c]);
